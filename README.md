@@ -1,6 +1,11 @@
 # Iagon-storage-node
 Iagon Storage Node is a cross-platform desktop application which allows users to share their storage on the Iagon network to earn extra money.
 
+## This package has been deprecated. Please use the mainnet version.
+
+- Mainnet CLI https://github.com/Iagonorg/mainnet-node-CLI
+- Mainnet GUI https://github.com/Iagonorg/mainnet-node-GUI
+
 # Introduction
 Welcome to the installation guide for Iagon Storage Node, a desktop application that empowers users to securely store files with ease. This document provides step-by-step instructions to help you install and set up Iagon Storage Node on your Windows, Linux, or macOS system.
 
